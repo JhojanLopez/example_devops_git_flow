@@ -28,3 +28,8 @@ para crear ramas feature usamos:
 ```bash
  git flow feature start <id-feature>
 ```
+
+para finalizar la rama feature y hacer merge en develop usamos:
+```bash
+ git flow feature finish <id-feature>
+```
